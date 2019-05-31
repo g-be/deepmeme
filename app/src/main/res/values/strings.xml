@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">deepmeme</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_subtitle">read and hide messages in image files</string>
+    <string name="nav_camera_title">take picture</string>
+    <string name="nav_gallery_title">choose picture</string>
+    <string name="nav_section_identification">identification</string>
+    <string name="nav_section_identification_sharableCode">my public key</string>
+    <string name="nav_section_identification_contacts">known keys</string>
+    <string name="QRcode_subtitle">this is your public key as a qr code</string>
+    <string name="nav_text_pic_in">write hidden text</string>
+    <string name="nav_text_pic_out">read hidden text</string>
+    <string name="nav_friends">friendly keys</string>
+    <string name="nav_settings">settings</string>
+    <string name="QRcode_description">generated QR code of public key</string>
+    <string name="meme_image_description">container meme</string>
+    <string name="default_text_to_hide">*your secret message goes here*</string>
+    <string name="btn_write_into_img">HIDE YOUR MESSAGE</string>
+    <string name="title_activity_img_result">img_result</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_known_public_keys">knownPublicKeysActivity</string>
+    <string name="read_message_btn_text">read message</string>
+</resources>
